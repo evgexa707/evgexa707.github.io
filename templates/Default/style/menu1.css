@@ -1,0 +1,225 @@
+.panelUsers {
+    background: #262726 url(/templates/Default/images/menu/index.png) 144px 0px repeat-y scroll;
+    float: left;
+    height: 580px;
+    margin-top: 50px;
+    position: fixed;
+    width: 152px;
+ 
+    margin-left: -165px;}
+.panelUsers > a {
+    color: #EBEFEF;
+    float: left;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-bottom: 0;
+    padding: 5px 10px 8px 35px;
+    width: 107px;
+}
+.clearsw {
+    float: left;
+    margin-right: 0;
+    margin-top: 0;
+    min-height: 415px;
+    width: 1005px;
+}
+.panelUsers > a:hover {
+    text-decoration: none;
+}
+.camera a.icon {
+    background: url("../images/camera.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+.show_m{
+background: rgba(108, 129, 165, 0.42);
+position: fixed;
+left: 0px;
+top: 0px;
+right: 0px;
+bottom: 0px;
+overflow: auto;
+padding-bottom: 20px;
+z-index: 100;
+}
+a.icon {
+    cursor: pointer;
+    height: 52px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 52px;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+.navigation {
+    font-family: "Trebuchet MS",sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 1.4px;
+}
+.panelUserss {
+    margin-left: 16px;
+    margin-top: 6px;
+    position: fixed;
+}
+
+
+
+.panelUsers {
+    background: #FCFFFC url(/templates/Default/images/menu/index.png) 144px 0px repeat-y scroll;
+    float: left;
+    height: 580px;
+    min-height: 300px;
+    margin: 0 auto;
+    position: fixed;
+    width: 220px;
+ 
+    margin-top: 50px;
+    padding-left: 10px;
+}
+.panelUsers > a {
+    color: #455f82;
+    float: left;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-bottom: 0;
+    padding: 5px 10px 8px 35px;
+    width: 123px;
+    font-size: 12px;
+    margin-left: 5px;
+    margin-top: 2px;
+    padding-bottom: 15px;
+}
+.clearsw {
+    float: left;
+    margin-right: 0;
+    margin-top: 0;
+    min-height: 415px;
+    width: 1005px;
+}
+.panelUsers > a:hover {
+    text-decoration: none;
+}
+.camera a.icon {
+    background: url("../images/camera.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+}
+a.icon {
+    cursor: pointer;
+    height: 52px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 52px;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+.navigation {
+    font-family: "Trebuchet MS",sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 1.4px;
+}
+.panelUserss {
+    margin-left: 16px;
+    margin-top: 6px;
+    position: fixed;
+}
+
+
+
+.ic_my {
+    background: url("/templates/Default/images/icn_m.png") no-repeat scroll -16px -252px;
+    float: left;
+}
+.ic_my:hover {
+    background: url("/templates/Default/images/icn_m.png") no-repeat scroll -16px -252px;
+}
+.ic_friendss {
+    float: left;
+    background: url("/templates/Default/images/icn_m.png") no-repeat scroll -16px -292px;
+}
+
+.ic_foto {
+    float: left;
+    background: url("/templates/Default/images/icn_m.png") no-repeat scroll -16px -172px;
+}
+
+.ic_im {
+    float: left;
+    background: url("/templates/Default/images/icn_m.png") no-repeat scroll -16px -52px;
+}
+.ic_guests {
+    float: left;
+    background: url("/templates/Default/images/icn_m.png") no-repeat scroll -16px -372px;
+}
+.ic_fave {
+    float: left;
+    background: url("/templates/Default/images/icn_m.png") no-repeat scroll -16px -330px;
+}
+.ic_game {
+    float: left;
+    background: url("/templates/Default/images/icn_m.png") no-repeat scroll -16px -412px;
+}
+.ic_video {
+    float: left;
+    background: url("/templates/Default/images/icn_m.png") no-repeat scroll -16px -212px;
+}
+.ic_music {
+    float: left;
+    background: url("/templates/Default/images/icn_m.png") no-repeat scroll -16px -13px;
+}
+.ic_groups {
+    float: left;
+    background: url("/templates/Default/images/icn_m.png") no-repeat scroll -16px -93px;
+}
+.ic_new {
+    float: left;
+    background: url("/templates/Default/images/menu/docs.png") no-repeat scroll 3px 5px;
+}
+.ic_notes {
+    float: left;
+    background: url("/templates/Default/images/icn_m.png") no-repeat scroll -16px -133px;
+}
+.ic_settings {
+    background: url("/templates/Default/images/leftmenu.png") no-repeat scroll 7px -229px;
+    float: left;
+}
+.ic_docs {
+    float: left;
+    background: url("/templates/Default/images/menu/support.png") no-repeat scroll 3px 5px;
+}
+.ic_support {
+    background: url("/templates/Default/images/leftmenu.png") no-repeat scroll 7px 4px ;
+    float: left;
+}
+.ic_balance {
+    background: url("/templates/Default/images/leftmenu.png") no-repeat scroll 7px 4px;
+    float: left;
+}
+
+.ic_edit {
+    background: url("/templates/Default/images/leftmenu.png") no-repeat scroll 7px 4px;
+    float: left;
+}
+
+/* 3 последние кнопки */
+
+.ic_l {
+    background: url("/templates/Default/images/icn_m3.png") no-repeat scroll -16px -14px;
+    float: left;
+}
+
+.ic_s {
+    background: url("/templates/Default/images/icn_m3.png") no-repeat scroll -16px -54px;
+    float: left;
+}
+
+.ic_p {
+    background: url("/templates/Default/images/leftmenu.png") no-repeat scroll 7px 4px;
+    float: left;
+}

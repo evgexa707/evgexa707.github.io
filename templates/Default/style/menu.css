@@ -1,0 +1,45 @@
+.panelUsers {background-image:url(/templates/Default/images/menu/index.png);float: left;margin-top: 44px; margin-left: -200px;width: 200px;font-size: 16px;bottom: 0;top: -26px;}
+.panelUsers > a {color: #FFFFFF;float: left;font-family: sans-serif;margin-bottom: 0;padding: 16px 10px 15px 45px;width: 145px;}
+.clearsw {float: left;margin-right: 0;margin-top: 0;min-height: 415px;width: 1005px;}
+.panelUsers > a:hover {text-decoration: none;}
+.camera a.icon {background: url("../images/camera.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);}
+a.icon {cursor: pointer;height: 52px;left: 0;position: absolute;top: 0;width: 52px;}
+* {margin: 0;padding: 0;}
+.navigation {font-family: "Trebuchet MS",sans-serif;font-size: 24px;font-style: normal;font-weight: bold;letter-spacing: 1.4px;}
+.panelUserss {margin-left: 16px;margin-top: 6px;position: fixed;}
+
+
+
+.ic_my { background: url("/templates/Default/images/menu/home.png") no-repeat scroll 20px 20px ;float: left;}
+.ic_my:hover {background: url("/templates/Default/images/menu/home.png") no-repeat scroll 20px 20px ;}
+.ic_friendss {background: url("/templates/Default/images/menu/friends.png") no-repeat scroll 20px 20px;float: left;}
+.ic_friendss:hover {background: url("/templates/Default/images/menu/friends.png") no-repeat scroll 20px 20px;}
+.ic_foto {background: url("/templates/Default/images/menu/photo.png") no-repeat scroll 20px 20px;float: left;}
+.ic_foto:hover {background: url("/templates/Default/images/menu/photo.png") no-repeat scroll 20px 20px;}
+.ic_im {background: url("/templates/Default/images/menu/messages.png") no-repeat scroll 20px 20px;float: left;}
+.ic_im:hover {background: url("/templates/Default/images/menu/messages.png") no-repeat scroll 20px 20px;}
+.ic_guests {background: url("/templates/Default/images/menu/guests.png") no-repeat scroll 20px 20px;float: left;}
+.ic_guests:hover {background: url("/templates/Default/images/menu/guests.png") no-repeat scroll 20px 20px;}
+.ic_fave {background: url("/templates/Default/images/menu/Bookmarks.png") no-repeat scroll 20px 20px;float: left;}
+.ic_fave:hover {background: url("/templates/Default/images/menu/Bookmarks.png") no-repeat scroll 20px 20px;}
+.ic_game {background: url("/templates/Default/images/menu/games.png") no-repeat scroll 20px 20px;float: left;}
+.ic_game:hover {background: url("/templates/Default/images/menu/games.png") no-repeat scroll 20px 20px;}
+.ic_video {background: url("/templates/Default/images/menu/video.png") no-repeat scroll 20px 20px;float: left;}
+.ic_video:hover {background: url("/templates/Default/images/menu/video.png") no-repeat scroll 20px 20px;}
+.ic_music {background: url("/templates/Default/images/menu/music.png") no-repeat scroll 20px 20px;float: left;}
+.ic_music:hover {background: url("/templates/Default/images/menu/music.png") no-repeat scroll 20px 20px;}
+.ic_groups {background: url("/templates/Default/images/menu/groups.png") no-repeat scroll 20px 20px;float: left;}
+.ic_groups:hover {background: url("/templates/Default/images/menu/groups.png") no-repeat scroll 20px 20px;}
+.ic_new {background: url("/templates/Default/images/menu/news.png") no-repeat scroll 20px 20px;float: left;}
+.ic_new:hover {background: url("/templates/Default/images/menu/news.png") no-repeat scroll 20px 20px;}
+.ic_notes {background: url("/templates/Default/images/menu/notes.png") no-repeat scroll 20px 20px;float: left;}
+.ic_notes:hover {background: url("/templates/Default/images/menu/notes.png") no-repeat scroll 20px 20px;}
+.ic_settings {background: url("/templates/Default/images/menu/Settings.png") no-repeat scroll 20px 20px;float: left;}
+.ic_settings:hover {background: url("/templates/Default/images/menu/Settings.png") no-repeat scroll 20px 20px;}
+.ic_docs {background: url("/templates/Default/images/menu/docs.png") no-repeat scroll 20px 20px;float: left;}
+.ic_docs:hover {background: url("/templates/Default/images/menu/docs.png") no-repeat scroll 20px 20px;}
+.ic_support {background: url("/templates/Default/images/leftmenu.png") no-repeat scroll 7px 4px ;float: left;}
+.ic_support:hover {background: url("/templates/Default/images/leftmenu.png") no-repeat scroll 7px 4px ;}
+.ic_balance {background: url("/templates/Default/images/leftmenu.png") no-repeat scroll 7px 4px;float: left;}
+.ic_balance:hover {background: url("/templates/Default/images/leftmenu.png") no-repeat scroll 7px 4px;}
+.panelUsers > a:hover {background-color: rgba(0, 0, 0, 0.25);box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1) inset, 0 -1px rgba(0, 0, 0, 0.3) inset, 0 -1px rgba(0, 0, 0, 0.3);}

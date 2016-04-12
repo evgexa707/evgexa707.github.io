@@ -1,0 +1,310 @@
+/* NEW RATING */
+
+#rateGold {
+ margin: -15px 0px 5px 0px;
+ padding-top: 5px;
+}
+
+#percentGoldm {
+ position:relative; font-size: 12px;
+font-weight: 500;
+
+ top:17px;
+ color: #8BA1BC;
+}
+
+#rateLeftGoldm {
+ float:left;
+ height: 20px;
+ width: 1px;
+ background-color:#DAE2E8;
+}
+
+#rateRightGoldm {
+ float:left;
+ height: 20px;
+ width: 195px;
+ background-color:#FAFAFA;
+}
+
+#percentGold0 {
+ position:relative; font-size: 12px;
+font-weight: 500;
+
+ top:17px;
+ color: #8BA1BC;
+}
+
+#rateLeftGold0 {
+ float:left;
+ height: 20px;
+ width: 5px;
+ 
+ background-color:#DAE2E8;
+}
+
+#rateRightGold0 {
+ float:left;
+ height: 20px;
+ width: 202px;
+
+ background-color:#FAFAFA;
+}
+
+
+#percentGold10 {
+ position:relative; font-size: 12px;
+font-weight: 500;
+
+ top:17px;
+ color: #8BA1BC;
+}
+
+#rateLeftGold10 {
+ float:left;
+ height: 20px;
+ width: 38px;
+ 
+ background-color:#DAE2E8;
+}
+
+#rateRightGold10 {
+ float:left;
+ height: 20px;
+ width: 187px;
+
+ background-color:#FAFAFA;
+}
+
+#percentGold20 {
+ position:relative; font-size: 12px;
+font-weight: 500;
+ top:17px;
+ color: #8BA1BC;
+
+}
+
+#rateLeftGold20 {
+ float:left;
+ height: 20px;
+ width: 58px;
+ 
+ background-color:#DAE2E8;
+}
+
+#rateRightGold20 {
+ float:left;
+ height: 20px;
+ width: 149px;
+
+ background-color:#FAFAFA;
+}
+
+
+#percentGold30 {
+ position:relative; font-size: 12px;
+font-weight: 500;
+ top:17px;
+ color: #8BA1BC;
+
+}
+
+#rateLeftGold30 {
+ float:left;
+ height: 20px;
+ width: 58px;
+ 
+ background-color:#DAE2E8;
+}
+
+#rateRightGold30 {
+ float:left;
+ height: 20px;
+ width: 149px;
+
+ background-color:#FAFAFA;
+}
+
+#percentGold40 {
+ position:relative; font-size: 12px;
+font-weight: 500;
+
+ top:17px;
+ color: #8BA1BC;
+}
+
+#rateLeftGold40 {
+ float:left;
+ height: 20px;
+ width: 78px;
+ 
+ background-color:#DAE2E8;
+}
+
+#rateRightGold40 {
+ float:left;
+ height: 20px;
+ width: 129px;
+
+ background-color:#FAFAFA;
+}
+
+#percentGold50 {
+ position:relative; font-size: 12px;
+font-weight: 500;
+
+ top:17px;
+ color: #8BA1BC;
+}
+
+#rateLeftGold50 {
+ float:left;
+ height: 20px;
+ width: 118px;
+ 
+ background-color:#DAE2E8;
+}
+
+#rateRightGold50 {
+ float:left;
+ height: 20px;
+ width: 89px;
+
+ background-color:#FAFAFA;
+}
+
+#percentGold60 {
+ position:relative; font-size: 12px;
+font-weight: 500;
+
+ top:17px;
+ color: #8BA1BC;
+}
+
+#rateLeftGold60 {
+ float:left;
+ height: 20px;
+ width: 128px;
+ 
+ background-color:#DAE2E8;
+}
+
+#rateRightGold60 {
+ float:left;
+ height: 20px;
+ width: 79px;
+
+ background-color:#FAFAFA;
+}
+
+
+#percentGold80 {
+ position:relative; font-size: 12px;
+font-weight: 500;
+
+ top:17px;
+ color: #8BA1BC;
+}
+
+#rateLeftGold80 {
+ float:left;
+ height: 20px;
+ width: 168px;
+ 
+ background-color:#DAE2E8;
+}
+
+#rateRightGold80 {
+ float:left;
+ height: 20px;
+ width: 39px;
+
+ background-color:#FAFAFA;
+}
+
+#percentGold90 {
+ position:relative; font-size: 12px;
+font-weight: 500;
+
+ top:17px;
+ color: #8BA1BC;
+}
+
+#rateLeftGold90 {
+ float:left;
+ height: 20px;
+ width: 198px;
+ 
+ background-color:#DAE2E8;
+}
+
+#rateRightGold90 {
+ float:left;
+ height: 20px;
+ width: 9px;
+
+ background-color:#FAFAFA;
+}
+
+#percentGold100 {
+ position:relative; font-size: 12px;
+font-weight: 500;
+
+ top:17px;
+ color: #8BA1BC;
+}
+
+#rateLeftGold100 {
+ float:left;
+ height: 20px;
+ width: 225px;
+ 
+ background-color:#DAE2E8;
+}
+
+#rateRightGold100 {
+ float:left;
+ height: 20px;
+ width: 0px;
+
+ background-color:#FAFAFA;
+}
+
+/* clearFix */
+
+.clearFix:after, .clear_fix:after {
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+
+.clear {
+  float: none;
+  clear: both;
+}
+
+
+.rate_shadow { 
+background-color: #000000;
+height: 1px;
+opacity: 0.25;
+overflow: hidden;
+position: absolute;
+width: 476px;
+z-index: 1550;
+}
+
+#rateHelp { 
+line-height: 160%;
+padding: 0px 30px 30px;
+}
+
+#rateHelp h2 { 
+border-bottom: 1px solid #DAE2E8;
+color: #2B587A;
+font-size: 12px;
+margin: 0px 15px 5px 0px;
+padding: 30px 0px 1px;
+}
